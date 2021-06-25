@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Lahore Qalandars"
+    },
+    {
+        "id": 2,
+        "name": "Quetta Gladiators"
+    },
+    {
+        "id": 3,
+        "name": "Islamabad United"
+    },
+    {
+        "id": 4,
+        "name": "Peshawar Zalmi"
+    },
+    {
+        "id": 5,
+        "name": "Multan Sultans"
+    },
+    {
+        "id": 6,
+        "name": "Karachi Kings"
+    }
+    ]
